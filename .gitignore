@@ -1,0 +1,11 @@
+# 数据集
+data/user_behavior.csv
+
+# 模型文件
+models/*.gguf
+
+# 其他忽略项
+*.log
+__pycache__/
+*.pyc
+.env
