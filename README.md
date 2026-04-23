@@ -126,3 +126,6 @@ ecommerce-user-behavior-analysis/
 - 增加用户复购率、品类关联分析等模块
 - 优化Llama模型运行速度（支持GPU加速）
 - 增加数据权限管理与多用户协作功能
+
+<img width="1920" height="1030" alt="image" src="https://github.com/user-attachments/assets/169a9c7a-ffbc-405d-92d5-41588cd62f1b" />
+
